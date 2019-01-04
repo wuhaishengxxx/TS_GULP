@@ -1,0 +1,11 @@
+[
+  "js/scene/SceneManager.js",
+  "js/utils/ResUtils.js",
+  "js/GameMian.js",
+  "js/scene/Map.js",
+  "js/ui/layaUI.max.all.js",
+  "js/view/main/Main.js",
+  "js/GameLayer.js",
+  "js/utils/Point.js",
+  "js/scene/Camera.js"
+]
